@@ -1,7 +1,7 @@
 # python-on-off-button-RPi
 self installing script 
 that adds on,off function to Raspberry Pi(RPi)
-it uses gpio library that id downloads and unpacks 
+it uses gpio library that it downloads and unpacks 
 from 3rd party website rather than updating and upgrading
 current distro. it also alters start up config and deletes
 itself and reboots system after it ran.
